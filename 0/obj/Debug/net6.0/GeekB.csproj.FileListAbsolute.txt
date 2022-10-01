@@ -1,0 +1,15 @@
+C:\Work\workshop\GeekB\0\bin\Debug\net6.0\GeekB.exe
+C:\Work\workshop\GeekB\0\bin\Debug\net6.0\GeekB.deps.json
+C:\Work\workshop\GeekB\0\bin\Debug\net6.0\GeekB.runtimeconfig.json
+C:\Work\workshop\GeekB\0\bin\Debug\net6.0\GeekB.dll
+C:\Work\workshop\GeekB\0\bin\Debug\net6.0\GeekB.pdb
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\GeekB.csproj.AssemblyReference.cache
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\GeekB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\GeekB.AssemblyInfoInputs.cache
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\GeekB.AssemblyInfo.cs
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\GeekB.csproj.CoreCompileInputs.cache
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\GeekB.dll
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\refint\GeekB.dll
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\GeekB.pdb
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\GeekB.genruntimeconfig.cache
+C:\Work\workshop\GeekB\0\obj\Debug\net6.0\ref\GeekB.dll
